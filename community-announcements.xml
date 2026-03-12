@@ -1,25 +1,6 @@
 <item>
-<title>Fw: Test Automation Chapter 10</title>
+<title>Test Announcement Chapter 11</title>
 <link>https://www.caledonianrecord.com/announcements</link>
-<description>Bah bah bah bah bah baran ba baran bba a bla blak lkadjf ojlkejao I'm losing it
-now . just owrk plaesa
-
-
-
-
-
-yw-0ad9294b7bde42a61155ea88de6720094a44d29c-aad5b553a3ee19c83a98cd347f491c72--tod
-[https://t.yesware.com/t/0ad9294b7bde42a61155ea88de6720094a44d29c/aad5b553a3ee19c83a98cd347f491c72/spacer.gif]
-
-
- 
-
-yw-0ad9294b7bde42a61155ea88de6720094a44d29c-312cc5b5cd71776f2d845e777035165c--tod
-[https://t.yesware.com/t/0ad9294b7bde42a61155ea88de6720094a44d29c/312cc5b5cd71776f2d845e777035165c/spacer.gif]
-
-
- 
-
-</description>
-<pubDate>2026-03-12T20:28:56.8159319Z</pubDate>
+<description>trim(first(split(string(outputs('Html_to_text')?['body']), 'yw-')))</description>
+<pubDate>2026-03-12T21:04:33.8414983Z</pubDate>
 </item>
