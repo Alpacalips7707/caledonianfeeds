@@ -1,6 +1,6 @@
 <item>
-<title>Test Announcement Chapter 11</title>
+<title>Fw: Test Announcement Chapter 12</title>
 <link>https://www.caledonianrecord.com/announcements</link>
 <description>trim(first(split(string(outputs('Html_to_text')?['body']), 'yw-')))</description>
-<pubDate>2026-03-12T21:04:33.8414983Z</pubDate>
+<pubDate>2026-03-12T22:35:01.5713305Z</pubDate>
 </item>
