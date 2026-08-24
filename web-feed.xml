@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caledonian-Record Web Feed</title>
     <link>https://www.caledonianrecord.com/</link>
     <description>Web-only content published from the Caledonian-Record editorial workflow.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Aug 2026 17:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:55:00 GMT</lastBuildDate>
     <generator>Caledonian-Record / ChatGPT</generator>
+    <atom:link href="https://raw.githubusercontent.com/Alpacalips7707/caledonianfeeds/main/web-feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Every Small Business Should Build an Email List — Even If Facebook Is Working</title>
       <link>https://www.caledonianrecord.com/</link>
