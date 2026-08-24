@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Caledonian-Record Web Feed</title>
+    <link>https://www.caledonianrecord.com/</link>
+    <description>Web-only content published from the Caledonian-Record editorial workflow.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Aug 2026 17:07:00 GMT</lastBuildDate>
+    <generator>Caledonian-Record / ChatGPT</generator>
+  </channel>
+</rss>
